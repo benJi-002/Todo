@@ -1,3 +1,6 @@
+//first commit
+
+
 import { useState, useEffect } from 'react';
 
 import AppInfo from '../appInfo/AppInfo';
@@ -12,6 +15,10 @@ import './app.css';
 
 
 const App = () => {
+
+    let commit = 1;
+    let commit1 = commit;
+
     
     const {Provider} = dataContext;
     
