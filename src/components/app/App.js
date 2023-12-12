@@ -16,8 +16,10 @@ import './app.css';
 
 const App = () => {
 
-    let commit = 1;
+    let commit = 2;
     let commit1 = commit;
+    
+    let commit2 = commit;
 
     
     const {Provider} = dataContext;
