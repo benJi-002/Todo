@@ -16,8 +16,7 @@ import './app.css';
 
 const App = () => {
 
-    let commit = 333;
-    let commit3 = commit;
+
 
     
     const {Provider} = dataContext;
